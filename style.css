@@ -4,7 +4,7 @@
 }
 
 /* change the font to something better */
-body {   font-family: 'Inter', sans-serif; margin:0; background:var(--teal); color:#fff; }
+body {   font-family: 'Space Grotesk', sans-serif; margin:0; background:var(--teal); color:#fff; }
 
 /* top stuff */
 header { background:var(--blue); color:#fff; padding:1rem; }
