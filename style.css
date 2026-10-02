@@ -1,14 +1,20 @@
 :root {
+  /* changed background color from red to teal*/
   --teal:#008080; --gold:#fabd0f; --blue:#002452;
 }
-/* this makes it look nice */
-body { font-family: "Brush Script MT", "Papyrus", cursive; margin:0; background:var(--teal); color:#fff; }
+
+/* change the font to something better */
+body {   font-family: 'Inter', sans-serif; margin:0; background:var(--teal); color:#fff; }
+
 /* top stuff */
 header { background:var(--blue); color:#fff; padding:1rem; }
+
+
 /* some spacing here */
 main { background:#fff; color:#1a1a1a; max-width:900px; margin:2rem auto; border-radius:12px; padding:1.5rem; }
 a { color: var(--blue); }
-/* change things below if needed */
+
+
 /* heading things */
 h2 { color: var(--blue); font-size: 1.6rem; }
 /* fix the picture */
