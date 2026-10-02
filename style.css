@@ -15,7 +15,7 @@ main { background:#fff; color:#1a1a1a; max-width:900px; margin:2rem auto; border
 a { color: var(--blue); }
 
 
-/* heading things */
+/* edit the headings style */
 h2 { color: var(--blue); font-size: 1.6rem; }
 /* fix the picture */
 img { border-radius: 12px; }
