@@ -1,2 +1,2 @@
 # CISC-121-HW2
-Hello, My name is Ailia and this repo contains my demo page.
+Hello, My name is Ailia and this repo contains my demo page for HW2.
